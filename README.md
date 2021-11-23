@@ -23,4 +23,4 @@
 Download and execute installer from [here](https://apt.quadriga.cf/quadriga.exe)
 
 ### Feedback
-Once you have installed and tried the app, please take a minute to offer [feedback](https://forms.gle/eZCgs8uDQjVCk1sT6)
+Once you have installed and tried the app, please take a minute to offer [feedback](https://forms.gle/eZCgs8uDQjVCk1sT6){:target="_blank"}

@@ -2,20 +2,22 @@
 
 ## macOS 
 
-`brew tap stefangrosaru/quadriga`
+```
+brew tap stefangrosaru/quadriga
+brew install quadriga
+```
 
-`brew install quadriga`
 
 
 ## Debian/Ubuntu
 
-`curl -sL https://get.quadriga.app/gpgkey | sudo apt-key add -`
+```
+curl -sL https://get.quadriga.app/gpgkey | sudo apt-key add -
+echo "deb [arch=amd64] https://get.quadriga.app stable main" | sudo tee /etc/apt/sources.list.d/quadriga.list
+sudo apt update
+sudo apt install quadriga
+```
 
-`echo "deb [arch=amd64] https://get.quadriga.app stable main" | sudo tee /etc/apt/sources.list.d/quadriga.list`
-
-`sudo apt update`
-
-`sudo apt install quadriga`
 
 
 ## Windows
